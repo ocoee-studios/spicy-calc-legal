@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-15T00:00:00.000Z",
+  "publications": [],
+  "trials": [],
+  "archive": [
+    {
+      "id": "archive:fiercebiotech-2026-06-08-survodutide",
+      "source": "Fierce Biotech",
+      "title": "ADA: Boehringer touts survodutide weight loss as tolerability questions linger",
+      "authors": "",
+      "journal": "",
+      "date": "2026-06-08",
+      "url": "https://www.fiercebiotech.com/biotech/ada-boehringer-points-survodutides-targeted-weight-loss-tolerability-questions-linger",
+      "summary": "At ADA 2026, Boehringer Ingelheim presented phase 3 SYNCHRONIZE data for its glucagon/GLP-1 dual agonist survodutide, reporting up to 16.6% average weight loss and large visceral-fat reductions. Coverage noted higher treatment-discontinuation rates on the highest doses than for some competing GLP-1 drugs."
+    },
+    {
+      "id": "archive:techtimes-2026-06-08-ada-glp1",
+      "source": "TechTimes",
+      "title": "GLP-1 Drugs 2026: ADA Sessions Close as New Standards End Single-Goal Diabetes Care",
+      "authors": "",
+      "journal": "",
+      "date": "2026-06-08",
+      "url": "https://www.techtimes.com/articles/318027/20260608/glp-1-drugs-2026-ada-sessions-close-new-standards-end-single-goal-diabetes-care.htm",
+      "summary": "A wrap-up of the American Diabetes Association's 2026 Scientific Sessions, where new treatment standards elevated cardiovascular and kidney risk reduction alongside blood-sugar control. The meeting featured phase 3 data for retatrutide, orforglipron and other agents."
+    },
+    {
+      "id": "archive:ada-2026-06-07-berobenatide",
+      "source": "ADA Meeting News",
+      "title": "Ultra-long-acting GLP-1 improves weight loss with and without type 2 diabetes",
+      "authors": "",
+      "journal": "",
+      "date": "2026-06-07",
+      "url": "https://www.adameetingnews.org/ultra-long-acting-glp-1-ra-improves-weight-loss-in-individuals-with-and-without-type-2-diabetes/",
+      "summary": "Data presented at ADA 2026 on berobenatide, an investigational ultra-long-acting GLP-1 receptor agonist studied in the VESPER phase 2b program, reported meaningful weight loss in people with obesity or overweight. Its extended half-life points to potential monthly dosing."
+    },
+    {
+      "id": "archive:biospace-2026-06-07-rv8451",
+      "source": "BioSpace",
+      "title": "Rivus Announces Preclinical Data for RV-8451, a Muscle-Preserving Oral GLP-1, at ADA 2026",
+      "authors": "",
+      "journal": "",
+      "date": "2026-06-07",
+      "url": "https://www.biospace.com/press-releases/rivus-pharmaceuticals-announces-preclinical-data-for-rv-8451-a-muscle-preserving-oral-glp-1-at-ada-2026-scientific-sessions",
+      "summary": "Rivus Pharmaceuticals reported preclinical results for RV-8451, an experimental oral GLP-1 receptor agonist, describing fat loss with preservation of lean muscle in non-human primate studies. The company said it plans to file an IND application in early 2027."
+    },
+    {
+      "id": "archive:pharmacytimes-2026-06-04-peptide-reclass",
+      "source": "Pharmacy Times",
+      "title": "What RFK Jr.'s Peptide Reclassification Actually Means: A Pharmacist's Take",
+      "authors": "",
+      "journal": "",
+      "date": "2026-06-04",
+      "url": "https://www.pharmacytimes.com/view/the-peptide-reclassification-everyone-s-talking-about-a-pharmacist-s-take-on-what-rfk-jr-s-announcement-actually-means",
+      "summary": "A pharmacist explains the February 2026 HHS announcement that roughly 14 of 19 FDA-restricted peptides would move from Category 2 to Category 1, restoring a legal compounding pathway with a prescription. The article stresses that reclassification is not FDA approval and does not establish safety or efficacy."
+    },
+    {
+      "id": "archive:novonordisk-2026-05-27-cagrisema",
+      "source": "Novo Nordisk",
+      "title": "Novo Nordisk Advances Cardiometabolic Pipeline with CagriSema and Zenagamtide Data at ADA 2026",
+      "authors": "",
+      "journal": "",
+      "date": "2026-05-27",
+      "url": "https://www.prnewswire.com/news-releases/novo-nordisk-advances-cardiometabolic-pipeline-with-new-data-featuring-cagrisema-and-zenagamtide-at-the-american-diabetes-associations-2026-scientific-sessions-302783110.html",
+      "summary": "Novo Nordisk previewed roughly 40 abstracts for ADA 2026, including new CagriSema data on glycemic control and weight loss and mid-stage results for zenagamtide (amycretin). The release outlined the company's broader cardiometabolic pipeline."
+    },
+    {
+      "id": "archive:sciam-2026-05-21-retatrutide",
+      "source": "Scientific American",
+      "title": "Next-Gen Weight-Loss Drug Retatrutide Moves a Step Closer to FDA Approval",
+      "authors": "",
+      "journal": "",
+      "date": "2026-05-21",
+      "url": "https://www.scientificamerican.com/article/next-gen-weight-loss-drug-retatrutide-trial-brings-it-one-step-closer-to-fda-approval/",
+      "summary": "Eli Lilly's triple-receptor agonist retatrutide, which targets GLP-1, GIP and glucagon, showed participants losing roughly 28% of body weight over 80 weeks in the phase 3 TRIUMPH-1 trial. The results position it as potentially more potent than current single- and dual-agonist obesity drugs."
+    },
+    {
+      "id": "archive:mnt-2026-05-10-fda-compounding",
+      "source": "Medical News Today",
+      "title": "FDA Proposes Ban on Bulk Compounding of Semaglutide and Tirzepatide",
+      "authors": "",
+      "journal": "",
+      "date": "2026-05-10",
+      "url": "https://www.medicalnewstoday.com/articles/fda-proposes-ban-bulk-compounding-semaglutide-tirzepatide",
+      "summary": "The FDA announced on April 30, 2026 that it is proposing to exclude semaglutide, tirzepatide and liraglutide from the 503B bulks list, citing no current clinical need for outsourcing facilities to compound them from bulk substances. A public comment period was opened ahead of a final decision."
+    },
+    {
+      "id": "archive:biospace-2026-04-16-fda-peptides",
+      "source": "BioSpace",
+      "title": "FDA Mulls Compounding for Peptides Previously Flagged Over Safety Risks",
+      "authors": "",
+      "journal": "",
+      "date": "2026-04-16",
+      "url": "https://www.biospace.com/fda/fda-mulls-compounding-for-peptides-previously-flagged-over-safety-risks",
+      "summary": "The FDA scheduled a July 2026 advisory-committee meeting to reconsider whether compounding pharmacies may prepare seven peptides the agency had earlier flagged for safety concerns. The piece notes HHS Secretary Robert F. Kennedy Jr.'s support for broader peptide access."
+    },
+    {
+      "id": "archive:raps-2026-04-16-bulk-peptides",
+      "source": "RAPS",
+      "title": "FDA Considers Adding a Dozen Peptides to Its Bulk Drug Compounding List",
+      "authors": "",
+      "journal": "",
+      "date": "2026-04-16",
+      "url": "https://www.raps.org/resource/fda-considers-adding-a-dozen-peptides-to-its-bulk-drug-compounding-list.html",
+      "summary": "The Regulatory Affairs Professionals Society reported that the FDA's Pharmacy Compounding Advisory Committee will evaluate whether about twelve peptides should be added to the Section 503A bulk drug list for licensed compounding. Proposed indications include wound healing, insomnia and ulcerative colitis."
+    },
+    {
+      "id": "archive:pharmacytimes-2026-04-01-orforglipron",
+      "source": "Pharmacy Times",
+      "title": "FDA Approves Orforglipron, First GLP-1 Pill Without Time, Food, or Water Restrictions",
+      "authors": "",
+      "journal": "",
+      "date": "2026-04-01",
+      "url": "https://www.pharmacytimes.com/view/fda-approves-orforglipron-first-glp-1-pill-without-time-food-or-water-restrictions",
+      "summary": "The FDA approved Eli Lilly's orforglipron (Foundayo), an oral GLP-1 receptor agonist, for adults with obesity or overweight, with no food, water or timing restrictions. Trials reported dose-dependent weight loss versus placebo."
+    },
+    {
+      "id": "archive:pharmacytimes-2026-03-28-tirzepatide-cvot",
+      "source": "Pharmacy Times",
+      "title": "Tirzepatide Cuts Major Heart and Kidney Risks in New SURPASS-CVOT Data",
+      "authors": "",
+      "journal": "",
+      "date": "2026-03-28",
+      "url": "https://www.pharmacytimes.com/view/tirzepatide-outperforms-dulaglutide-in-slashing-major-heart-and-kidney-risks-new-surpass-cvot-data-reveal",
+      "summary": "In the SURPASS-CVOT trial in people with type 2 diabetes and cardiovascular disease, tirzepatide met noninferiority versus dulaglutide on the primary cardiovascular endpoint and showed reductions in a broader cardiorenal composite. Gastrointestinal side effects were more common with tirzepatide."
+    },
+    {
+      "id": "archive:medxpress-2026-03-20-semaglutide-alzheimers",
+      "source": "Medical Xpress",
+      "title": "Semaglutide Does Not Slow Alzheimer's Disease, Two Clinical Trials Find",
+      "authors": "",
+      "journal": "",
+      "date": "2026-03-20",
+      "url": "https://medicalxpress.com/news/2026-03-weight-loss-drug-semaglutide-alzheimer.html",
+      "summary": "Two phase 3 trials (EVOKE and EVOKE+) of about 3,800 patients with early Alzheimer's found that oral semaglutide produced no significant difference in disease progression versus placebo over two years. Some biomarker changes in a subgroup did not translate into slower cognitive decline."
+    },
+    {
+      "id": "archive:fiercebiotech-2025-11-25-amycretin",
+      "source": "Fierce Biotech",
+      "title": "Novo Nordisk Expands Pivotal Amycretin Program After Dual Agonist Shines in Diabetes",
+      "authors": "",
+      "journal": "",
+      "date": "2025-11-25",
+      "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-expands-pivotal-amycretin-program-after-dual-agonist-shines-diabetes",
+      "summary": "Novo Nordisk said it would expand the phase 3 program for amycretin, a single-molecule GLP-1/amylin co-agonist, after phase 2 diabetes data showed substantial HbA1c and body-weight reductions. The move advances amycretin alongside the company's CagriSema program."
+    },
+    {
+      "id": "archive:pharmacytimes-2025-08-18-semaglutide-mash",
+      "source": "Pharmacy Times",
+      "title": "Semaglutide Receives FDA Approval for Treatment of MASH",
+      "authors": "",
+      "journal": "",
+      "date": "2025-08-18",
+      "url": "https://www.pharmacytimes.com/view/semaglutide-receives-fda-approval-for-treatment-of-mash",
+      "summary": "The FDA approved semaglutide (Wegovy) 2.4 mg as the first GLP-1 receptor agonist for non-cirrhotic MASH with moderate-to-advanced liver fibrosis, based on the ESSENCE trial. Reported data showed higher rates of MASH resolution versus placebo."
+    },
+    {
+      "id": "archive:fightaging-2025-10-10-elamipretide",
+      "source": "Fight Aging!",
+      "title": "FDA Approval for Mitochondrial Therapeutic Elamipretide, Formerly SS-31",
+      "authors": "",
+      "journal": "",
+      "date": "2025-10-10",
+      "url": "https://www.fightaging.org/archives/2025/10/fda-approval-for-mitochondrial-therapeutic-elamipretide-formerly-ss-31/",
+      "summary": "The FDA granted accelerated approval to elamipretide (FORZINITY), the mitochondria-targeted peptide previously known as SS-31, for Barth syndrome, a rare mitochondrial disease. The approval was supported by trial data showing improved muscle strength."
+    }
+  ]
+}
