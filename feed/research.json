@@ -1,68 +1,108 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T15:57:22.921Z",
-  "publicationsFetchedAt": "2026-11-09T15:57:22.921Z",
-  "trialsFetchedAt": "2026-11-09T15:57:22.921Z",
+  "generatedAt": "2026-11-16T15:31:59.021Z",
+  "publicationsFetchedAt": "2026-11-16T15:31:59.021Z",
+  "trialsFetchedAt": "2026-11-16T15:31:59.021Z",
   "publications": [
     {
-      "id": "pmid:43000189",
+      "id": "pmid:43035096",
       "source": "PubMed",
-      "title": "Longitudinal Taxonomic and Predicted Functional Gut Microbiome Responses to Tirzepatide and Semaglutide: An Exploratory Secondary Analysis of the OMDOT-1 Randomized Controlled Trial.",
-      "authors": "Morioka T, Miyaoka D, Nakatani S, Kakutani Y, Miyamoto S",
-      "journal": "Diabetes, obesity & metabolism",
-      "date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000189/",
-      "summary": "longitudinal taxonomic and predicted functional gut microbiome responses to tirzepatide and semaglutide an exploratory secondary analysis of the omdot 1 randomized controlled trial"
+      "title": "Tirzepatide in Adolescents With Obesity: The SURMOUNT-ADOLESCENTS Randomized Clinical Trial.",
+      "authors": "Kelly AS, Pamidipati KC, Rachmiel M, Srivastava G, Hsia DS",
+      "journal": "JAMA",
+      "date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035096/",
+      "summary": "tirzepatide in adolescents with obesity the surmount adolescents randomized clinical trial"
     },
     {
-      "id": "pmid:43000188",
+      "id": "pmid:43035094",
       "source": "PubMed",
-      "title": "Lean Body Mass During GLP-1-Based Therapy and the Potential Role of Dietary Protein: Evidence From Energy-Restriction Trials.",
-      "authors": "Vlachogiannakou PA, Tentolouris A, Kokkinos A, Liberopoulos E, Stefanou MI",
-      "journal": "Diabetes, obesity & metabolism",
-      "date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000188/",
-      "summary": "lean body mass during glp 1 based therapy and the potential role of dietary protein evidence from energy restriction trials"
+      "title": "Tirzepatide in Adolescents With Obesity: Research Summary.",
+      "authors": "",
+      "journal": "JAMA",
+      "date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035094/",
+      "summary": "tirzepatide in adolescents with obesity research summary"
     },
     {
-      "id": "pmid:43000186",
+      "id": "pmid:43035836",
       "source": "PubMed",
-      "title": "Weaker or Just Lighter? Monitoring Strength and Function, Not Just Lean Mass, During GLP-1 Weight Loss.",
-      "authors": "O'Leary RT",
-      "journal": "Diabetes, obesity & metabolism",
-      "date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000186/",
-      "summary": "weaker or just lighter monitoring strength and function not just lean mass during glp 1 weight loss"
+      "title": "Disordered Eating Attitudes and Behaviors in Individuals With BMI > 27 kg/m(2) Treated by Semaglutide: A 60-Week Randomized Placebo-Controlled Trial.",
+      "authors": "Allison KC, Wadden TA, DeRouen K, Amaro A, Collins KG",
+      "journal": "The International journal of eating disorders",
+      "date": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035836/",
+      "summary": "disordered eating attitudes and behaviors in individuals with bmi 27 kg m 2 treated by semaglutide a 60 week randomized placebo controlled trial"
     },
     {
-      "id": "pmid:43000185",
+      "id": "pmid:43034163",
       "source": "PubMed",
-      "title": "Effects of GLP-1 Receptor Agonists on Hyperuricemia, Serum Uric Acid and Gout: A Systematic Review and Meta-Analysis.",
-      "authors": "Lee YH, Song GG",
-      "journal": "Diabetes, obesity & metabolism",
-      "date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000185/",
-      "summary": "effects of glp 1 receptor agonists on hyperuricemia serum uric acid and gout a systematic review and meta analysis"
+      "title": "Systemic and oral adverse effects of semaglutide reported in randomized controlled trials: a scoping review.",
+      "authors": "Muknickas D, Câmara JVF, Schestakow A, da Silva Spinola M, Heller D",
+      "journal": "BMC oral health",
+      "date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034163/",
+      "summary": "systemic and oral adverse effects of semaglutide reported in randomized controlled trials a scoping review"
     },
     {
-      "id": "pmid:43000112",
+      "id": "pmid:43033821",
       "source": "PubMed",
-      "title": "Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial.",
-      "authors": "Ghanbari F, Reddy YNV, Packer M, Ng A, Carter R",
-      "journal": "Nature medicine",
-      "date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000112/",
-      "summary": "effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity a pre specified cardiac magnetic resonance substudy of the cameo sema trial"
+      "title": "Efficacy and safety of co-administered cagrilintide-semaglutide (CagriSema) 1·7 mg each and 1·0 mg each in adults with overweight or obesity (REDEFINE 9): a multicentre, randomised, double-blind within-dose-level, placebo-controlled, parallel-group, phase 3b trial.",
+      "authors": "Wharton S, Broholm C, Horn D, Pinta AR, Rubino D",
+      "journal": "The lancet. Diabetes & endocrinology",
+      "date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033821/",
+      "summary": "efficacy and safety of co administered cagrilintide semaglutide cagrisema 1 7 mg each and 1 0 mg each in adults with overweight or obesity redefine 9 a multicentre randomised double blind within dose level placebo controlled parallel group phase 3b trial"
     },
     {
-      "id": "pmid:43000069",
+      "id": "pmid:43033336",
       "source": "PubMed",
-      "title": "Disentangling semaglutide's effects on motivation in major depressive disorder: A mediation analysis.",
-      "authors": "Gill H, Badulescu S, Shah H, Brudner RM, Di Vincenzo JD",
-      "journal": "Journal of affective disorders",
-      "date": "2026-11-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000069/",
-      "summary": "disentangling semaglutide s effects on motivation in major depressive disorder a mediation analysis"
+      "title": "Clinical outcomes of GLP-1 receptor agonists VS placebo among patients with heart failure with preserved ejection fraction: a systematic review and meta-analysis.",
+      "authors": "Davis E, Alexander L, Tobian N, Theja FA, Kristianto A",
+      "journal": "The Egyptian heart journal : (EHJ) : official bulletin of the Egyptian Society of Cardiology",
+      "date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033336/",
+      "summary": "clinical outcomes of glp 1 receptor agonists vs placebo among patients with heart failure with preserved ejection fraction a systematic review and meta analysis"
+    },
+    {
+      "id": "pmid:43033301",
+      "source": "PubMed",
+      "title": "Tirzepatide and inflammation: a critical reappraisal of the immunometabolic case for incretin-based therapy.",
+      "authors": "Jabbar AD",
+      "journal": "Reviews in endocrine & metabolic disorders",
+      "date": "2026-11-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033301/",
+      "summary": "tirzepatide and inflammation a critical reappraisal of the immunometabolic case for incretin based therapy"
+    },
+    {
+      "id": "pmid:43034337",
+      "source": "PubMed",
+      "title": "Preoperative GLP-1 Receptor Agonist Use and Postoperative Outcomes Across Plastic and Reconstructive Surgery: A Systematic Review and Meta-Analysis.",
+      "authors": "Cirino Follmann J, Orellana Correa RS, Alonso Campos E, Cerón Rivero M, Correa N",
+      "journal": "Plastic surgery (Oakville, Ont.)",
+      "date": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034337/",
+      "summary": "preoperative glp 1 receptor agonist use and postoperative outcomes across plastic and reconstructive surgery a systematic review and meta analysis"
+    },
+    {
+      "id": "pmid:43036571",
+      "source": "PubMed",
+      "title": "Visceral and Ectopic Fat Remodeling with Incretin-Based Therapies in Type 2 Diabetes: Human Imaging Evidence.",
+      "authors": "Zhang Q, Liu Y, Zhang T",
+      "journal": "Journal of multidisciplinary healthcare",
+      "date": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036571/",
+      "summary": "visceral and ectopic fat remodeling with incretin based therapies in type 2 diabetes human imaging evidence"
+    },
+    {
+      "id": "pmid:43006127",
+      "source": "PubMed",
+      "title": "Patients Use Google to Ask Questions About the Structure, Function, and Risks of Peptide Use in Orthopaedic Surgery.",
+      "authors": "Obana KK, Weiss DL, Chen JY, Levine SB, Chen AZ",
+      "journal": "Arthroscopy, sports medicine, and rehabilitation",
+      "date": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43006127/",
+      "summary": "patients use google to ask questions about the structure function and risks of peptide use in orthopaedic surgery"
     },
     {
       "id": "pmid:43000036",
@@ -75,44 +115,34 @@
       "summary": "weight management in people with hiv"
     },
     {
-      "id": "pmid:42998725",
+      "id": "pmid:43030794",
       "source": "PubMed",
-      "title": "Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.",
-      "authors": "Patel SK, Dubey S, Tiwari A",
-      "journal": "Diabetes research and clinical practice",
-      "date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998725/",
-      "summary": "phase 3 clinical development of semaglutide 2015 2026 a comprehensive evidence based review of trial designs therapeutic outcomes and global clinical experience"
-    },
-    {
-      "id": "pmid:42998247",
-      "source": "PubMed",
-      "title": "Initial Diabetes Therapy After Coronary Artery Bypass Grafting and Long-Term Outcomes.",
-      "authors": "Tam V, Schaff HV, Thao V, Van Houten H, Frye RL",
-      "journal": "Journal of the American Heart Association",
-      "date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998247/",
-      "summary": "initial diabetes therapy after coronary artery bypass grafting and long term outcomes"
-    },
-    {
-      "id": "pmid:42998120",
-      "source": "PubMed",
-      "title": "GLP-1 receptor agonist use in patients with minor stroke is associated with lower risk of post-stroke dementia.",
-      "authors": "Kakadiya J, Chen H, Rai P, Dhaduk V, Bathla G",
-      "journal": "Journal of neurology",
-      "date": "2026-11-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998120/",
-      "summary": "glp 1 receptor agonist use in patients with minor stroke is associated with lower risk of post stroke dementia"
-    },
-    {
-      "id": "pmid:42997610",
-      "source": "PubMed",
-      "title": "Medicaid Coverage Withdrawal and Dispensing of Glucagon-Like Peptide-1 Receptor Agonists for Obesity.",
-      "authors": "Nyambod FT, Msemakweli JG, Onesphore M",
-      "journal": "Cureus",
+      "title": "Clinical Recognition, Safe Triage, and Pharmacovigilance Reporting Readiness for Suspected Serious Adverse Drug Reactions in Community Pharmacies: A Covert Simulated-Patient Study in Central Jordan.",
+      "authors": "Merdas ZJH, Abu Assab M, Abed A, Safadi WA, Zakaria ZZ",
+      "journal": "Journal of clinical medicine",
       "date": "2026-11-06",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997610/",
-      "summary": "medicaid coverage withdrawal and dispensing of glucagon like peptide 1 receptor agonists for obesity"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030794/",
+      "summary": "clinical recognition safe triage and pharmacovigilance reporting readiness for suspected serious adverse drug reactions in community pharmacies a covert simulated patient study in central jordan"
+    },
+    {
+      "id": "pmid:43030785",
+      "source": "PubMed",
+      "title": "A Multimodal Intervention Including Tirzepatide in Women with Lipedema and Excess Body Weight: A Pilot Case Series.",
+      "authors": "Kędzierska-Kapuza K, Samul-Jastrzębska J, Cygler M, Jerzak M, Franek E",
+      "journal": "Journal of clinical medicine",
+      "date": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030785/",
+      "summary": "multimodal intervention including tirzepatide in women with lipedema and excess body weight a pilot case series"
+    },
+    {
+      "id": "pmid:43030732",
+      "source": "PubMed",
+      "title": "Association of GLP-1 Receptor Agonist Exposure with Platelet Function in Patients with Diabetes and Peripheral Artery Disease After Lower-Extremity Revascularization.",
+      "authors": "Bansal R, Fouzdar S, Bhatt S, Patel S, Sauer V",
+      "journal": "Journal of clinical medicine",
+      "date": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030732/",
+      "summary": "association of glp 1 receptor agonist exposure with platelet function in patients with diabetes and peripheral artery disease after lower extremity revascularization"
     },
     {
       "id": "pmid:42969745",
@@ -135,6 +165,26 @@
       "summary": "efficient expression of small molecule bioactive peptides in bacillus licheniformis"
     },
     {
+      "id": "pmid:43030521",
+      "source": "PubMed",
+      "title": "Early Body-Composition Trajectory During Tirzepatide Treatment for Obesity: A Real-World Bioimpedance Cohort Study.",
+      "authors": "Zafer E, Çekiç D, Genç AB, Yaylacı S",
+      "journal": "Journal of clinical medicine",
+      "date": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030521/",
+      "summary": "early body composition trajectory during tirzepatide treatment for obesity a real world bioimpedance cohort study"
+    },
+    {
+      "id": "pmid:43011877",
+      "source": "PubMed",
+      "title": "Regenerative peptides for inferior alveolar nerve injury: a narrative review.",
+      "authors": "Froum S, Estrin N, Pico G, Yakubov M, Ahmad P",
+      "journal": "Frontiers in dental medicine",
+      "date": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43011877/",
+      "summary": "regenerative peptides for inferior alveolar nerve injury a narrative review"
+    },
+    {
       "id": "pmid:42937313",
       "source": "PubMed",
       "title": "Investigational Peptides in Orthopaedic Practice: Evidence, Safety, and Patient Counseling for BPC-157, Thymosin Beta-4, and TB-500.",
@@ -155,6 +205,16 @@
       "summary": "peptides fda s pharmacy compounding advisory committee and the future of fda drug approval"
     },
     {
+      "id": "pmid:43030438",
+      "source": "PubMed",
+      "title": "Practical Challenges of Switching and Cross-Titration Between Incretin-Based Therapies in Type 2 Diabetes and Obesity: A Narrative Review.",
+      "authors": "Makuc J, Janić M",
+      "journal": "Journal of clinical medicine",
+      "date": "2026-10-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030438/",
+      "summary": "practical challenges of switching and cross titration between incretin based therapies in type 2 diabetes and obesity a narrative review"
+    },
+    {
       "id": "pmid:42869665",
       "source": "PubMed",
       "title": "2026 ISASS Spine Bone Graft Policy Update: Class III Technologies and Contemporary Evidence Maturation.",
@@ -163,26 +223,6 @@
       "date": "2026-10-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869665/",
       "summary": "2026 isass spine bone graft policy update class iii technologies and contemporary evidence maturation"
-    },
-    {
-      "id": "pmid:42999341",
-      "source": "PubMed",
-      "title": "In Vivo Transcriptomics-Based Framework for Systematic Indication Expansion.",
-      "authors": "Palmer Z, Koirala S, Talukdar N, Zhang X, Garver H",
-      "journal": "bioRxiv : the preprint server for biology",
-      "date": "2026-10-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999341/",
-      "summary": "in vivo transcriptomics based framework for systematic indication expansion"
-    },
-    {
-      "id": "pmid:42999545",
-      "source": "PubMed",
-      "title": "Orforglipron improved physical and psychosocial functioning in adults with obesity: Results from ATTAIN phase 3 randomized trials.",
-      "authors": "Look M, Bays H, Le Roux CW, Xavier NA, Allen SE",
-      "journal": "Obesity pillars",
-      "date": "2026-10-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999545/",
-      "summary": "orforglipron improved physical and psychosocial functioning in adults with obesity results from attain phase 3 randomized trials"
     },
     {
       "id": "pmid:42853529",
@@ -195,16 +235,6 @@
       "summary": "migraine and obesity from shared mechanisms to therapeutic strategies"
     },
     {
-      "id": "pmid:42999829",
-      "source": "PubMed",
-      "title": "Boerhaave Syndrome: Case Report on a Rare Complication of Semaglutide Use.",
-      "authors": "McMahon MK, Smithwick L, Madsen A, Whitt E, Warmbrod B",
-      "journal": "Cureus",
-      "date": "2026-10-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999829/",
-      "summary": "boerhaave syndrome case report on a rare complication of semaglutide use"
-    },
-    {
       "id": "pmid:42885452",
       "source": "PubMed",
       "title": "Human evidence for BPC-157 in orthopaedic and regenerative medicine: a systematic review of efficacy and safety.",
@@ -215,14 +245,14 @@
       "summary": "human evidence for bpc 157 in orthopaedic and regenerative medicine a systematic review of efficacy and safety"
     },
     {
-      "id": "pmid:42999457",
+      "id": "pmid:43036406",
       "source": "PubMed",
-      "title": "Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.",
-      "authors": "Elhassan A, Mohamed AB, Mahgoub A, Singh A, Ali I",
-      "journal": "Cureus",
+      "title": "Cardiovascular promise requires endpoint discipline: interpreting tirzepatide after SURPASS-CVOT.",
+      "authors": "Vijayasimha M, Wadhwa T",
+      "journal": "Therapeutic advances in endocrinology and metabolism",
       "date": "2026-10-07",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999457/",
-      "summary": "insulin deintensification after glucagon like peptide 1 glp 1 based therapy in type 2 diabetes evidence and a practical clinical framework"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036406/",
+      "summary": "cardiovascular promise requires endpoint discipline interpreting tirzepatide after surpass cvot"
     },
     {
       "id": "pmid:42943255",
@@ -263,16 +293,6 @@
       "date": "2026-10-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42808548/",
       "summary": "return on investment of sglt2 inhibitors and glp 1 receptor agonists implications of real world use for managed care"
-    },
-    {
-      "id": "pmid:42790153",
-      "source": "PubMed",
-      "title": "Microfluidics-engineered ovalbumin-carvacrol nanoparticles for ultrasonically fabricated pickering emulsion coatings: a sonochemical strategy for fruit preservation.",
-      "authors": "Lv SW, Tang ZH, Ye ZF, Lu YJ, Jin GX",
-      "journal": "Ultrasonics sonochemistry",
-      "date": "2026-10-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42790153/",
-      "summary": "microfluidics engineered ovalbumin carvacrol nanoparticles for ultrasonically fabricated pickering emulsion coatings a sonochemical strategy for fruit preservation"
     },
     {
       "id": "pmid:42876687",
@@ -375,16 +395,6 @@
       "summary": "fabrication and characterization of biocompatible bpc 157 based chitosan hydrogel"
     },
     {
-      "id": "pmid:42328738",
-      "source": "PubMed",
-      "title": "Rapid and harmonized analytical workflow for the determination of peptidic and non-peptidic doping agents in dried and liquid blood matrices.",
-      "authors": "Mazzarino M, Colpaert T, Deventer K, Van Eenoo P",
-      "journal": "The Analyst",
-      "date": "2026-07-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42328738/",
-      "summary": "rapid and harmonized analytical workflow for the determination of peptidic and non peptidic doping agents in dried and liquid blood matrices"
-    },
-    {
       "id": "pmid:42542926",
       "source": "PubMed",
       "title": "Effects of BPC-157 and TB-500 on Achilles tendon healing in rats: A histopathological and biomechanical study.",
@@ -445,16 +455,6 @@
       "summary": "synthetic peptides in pharmacy compounding analysis of pcac recommendations and industry safety standards"
     },
     {
-      "id": "pmid:42385164",
-      "source": "PubMed",
-      "title": "Effects of Supplementation in Masters Athletes and Older Adults: A Narrative Review.",
-      "authors": "Nguyen C, Allen MR, Hornburg K, Fredericson M",
-      "journal": "Current sports medicine reports",
-      "date": "2026-07-01",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385164/",
-      "summary": "effects of supplementation in masters athletes and older adults a narrative review"
-    },
-    {
       "id": "pmid:42461148",
       "source": "PubMed",
       "title": "Ghrelin impairs embryo development after ovarian hyperstimulation.",
@@ -507,34 +507,234 @@
   ],
   "trials": [
     {
-      "id": "NCT07924618",
+      "id": "NCT07243171",
       "source": "ClinicalTrials.gov",
-      "title": "Ocular Changes in Patients Using Tirzepatide or Semaglutide",
+      "title": "A Phase Ib/IIa Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Oral Ecnoglutide Tablets in Chinese Participants With Overweight or Obesity",
+      "status": "RECRUITING",
+      "phase": "PHASE1, PHASE2",
+      "date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT07243171",
+      "summary": "The aim of the study is to evaluate the safety, tolerability, pharmacokinetics and pharmacodynamics of oral ecnoglutide tablets in Chinese participants with overweight or obesity"
+    },
+    {
+      "id": "NCT07627191",
+      "source": "ClinicalTrials.gov",
+      "title": "GLP-1 RA Plus SOC Treatment in First-line, Metastatic Pancreatic, Colorectal, or Hepatocellular Cancer",
+      "status": "RECRUITING",
+      "phase": "EARLY_PHASE1",
+      "date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT07627191",
+      "summary": "There is a growing number of patients diagnosed with gastrointestinal cancers who are also simultaneously being treated with GLP-1 Receptor Agonists (RA)s. To date, no clinical trial data exists to establish safety and/or feasibility with use of GLP-1 RAs during chemotherapy in the metastatic setting. The goal of this clinical trial is to evaluate the safety, tolerability, preliminary efficacy, and correlative analyses of combining GLP-1 RAs with standard chemotherapy in patients with metastatic"
+    },
+    {
+      "id": "NCT07588984",
+      "source": "ClinicalTrials.gov",
+      "title": "GLP-1 Medication & Behavioral Health Programs on Weight & Metabolic Outcomes: FLOURISH and THRIVE Prospective Cohort Study",
       "status": "RECRUITING",
       "phase": "Not specified",
-      "date": "2026-11-09",
-      "url": "https://clinicaltrials.gov/study/NCT07924618",
-      "summary": "This prospective observational study aims to evaluate ocular structural and microvascular changes in adults with obesity who are receiving semaglutide or tirzepatide as part of routine clinical care. Participants with and without type 2 diabetes mellitus will be included.\n\nParticipants will undergo ophthalmologic examinations at baseline and during follow-up. Changes in optic nerve head parameters, retinal thickness, retinal and choroidal microvascular parameters, and choroidal thickness will be"
+      "date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT07588984",
+      "summary": "This research program includes two coordinated prospective studies (FLOURISH and THRIVE) evaluating the real-world effectiveness of Noom's digital health programs on weight, cardiometabolic biomarkers, physiological health indicators, and program engagement.\n\nFLOURISH is a 6-arm prospective cohort study comparing an Education-only control, Noom Weight, standard-dose compounded semaglutide, microdose compounded semaglutide, standard-dose tirzepatide (Noom Plus), and microdose tirzepatide (Noom Pl"
     },
     {
-      "id": "NCT06252584",
+      "id": "NCT06015893",
       "source": "ClinicalTrials.gov",
-      "title": "Multi-peptide Vaccination Adjuvanted With XS15 in Acute Myeloid Leukemia Patients",
-      "status": "RECRUITING",
+      "title": "Semaglutide Therapy for Alcohol Reduction (STAR)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-16",
+      "url": "https://clinicaltrials.gov/study/NCT06015893",
+      "summary": "Background:\n\nAlcohol use disorder (AUD) is a problematic pattern of alcohol use accompanied by clinically significant medical consequences. Medications can help most people reduce their drinking, but the number is limited, and additional treatment options are needed.\n\nObjective:\n\nTo test if a medication named Semaglutide may reduce alcohol drinking in people with AUD.\n\nWho can participate?\n\nAll Adults aged 18 or older with AUD might be eligible to participate in the study.\n\nWhat will happen duri"
+    },
+    {
+      "id": "NCT06297603",
+      "source": "ClinicalTrials.gov",
+      "title": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-13",
+      "url": "https://clinicaltrials.gov/study/NCT06297603",
+      "summary": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with placebo in participants with Type 2 Diabetes and renal impairment, with inadequate glycemic control on basal insulin alone or a combination of basal insulin with or without metformin and/or sodium-glucose cotransporter-2 (SGLT2) inhibitor. The study will last about 14 months and may include up to 22 visits."
+    },
+    {
+      "id": "NCT04270149",
+      "source": "ClinicalTrials.gov",
+      "title": "Cancer Peptides Plus GM-CSF and Adjuvant in Breast Cancer",
+      "status": "ACTIVE_NOT_RECRUITING",
       "phase": "PHASE1",
-      "date": "2026-11-09",
-      "url": "https://clinicaltrials.gov/study/NCT06252584",
-      "summary": "The aim of this Phase I study is to evaluate the immunogenicity along with safety and toxicity as well as first efficacy of a multi-peptide vaccine adjuvanted with the TLR1/2 ligand XS15 emulsified in Montanide ISA 51 VG (AML-VAC-XS15) in AML patients who have achieved CR or CRi with first line treatment."
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT04270149",
+      "summary": "This is a phase I study looking at the safety of cancer peptides combined with adjuvant and GM-CSF in subjects with estrogen receptor (ESR) positive breast cancer. The primary objective of the study is to determine the safety of of the peptide vaccine. The secondary objective is to evaluate the immune response to the vaccine. The peptides used in this vaccine are derived from the estrogen receptor and are combined with the adjuvant Montanide ISA and GM-CSF to enhance their immune response. A pep"
     },
     {
-      "id": "NCT07775404",
+      "id": "NCT07112872",
       "source": "ClinicalTrials.gov",
-      "title": "A Study to Investigate the Efficacy and Safety of Elecoglipron in Asian Participants With Obesity or Overweight With or Without Type 2 Diabetes Mellitus",
+      "title": "A Study to Compare Different Doses of Tifeglipron (RO7795081) With Placebo or Semaglutide in People With Type 2 Diabetes",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07112872",
+      "summary": "This multicenter, randomized, double-blind, placebo- and open-label active comparator-controlled, parallel-group, dose-range-finding, Phase II study aims to evaluate the efficacy, tolerability, and safety of different doses of tifeglipron for glycemic control in adult participants with Type 2 diabetes mellitus (T2D)."
+    },
+    {
+      "id": "NCT05556512",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study of Tirzepatide (LY3298176) on the Reduction on Morbidity and Mortality in Adults With Obesity",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT05556512",
+      "summary": "This study will investigate the effect of tirzepatide on the reduction of morbidity and mortality in adults living with obesity and provide additional evidence for the potential clinical benefits of tirzepatide in this population."
+    },
+    {
+      "id": "NCT06345079",
+      "source": "ClinicalTrials.gov",
+      "title": "Cessation of Somatostatin Analogues After PRRT in Mid, Hind-Gut and Pancreatic Neuroendocrine Tumours",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT06345079",
+      "summary": "Neuroendocrine tumours (NETs) are slow growing cancers, which commonly present as metastatic incurable disease. Some neuroendocrine tumours, termed functional NETs, overproduce hormones which result in a variety of symptoms. However, approximately 75% of NETs are considered non-functional meaning that they do not result in hormone overproduction. The main treatment for both functional and non-functional NETs is somatostatin analogues (SSA, a type of inhibitory hormone). These drugs slow tumour g"
+    },
+    {
+      "id": "NCT07517042",
+      "source": "ClinicalTrials.gov",
+      "title": "ASCEND-1: Lifestyle Intervention Plus Mazdutide for Weight Management",
+      "status": "RECRUITING",
+      "phase": "NA",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07517042",
+      "summary": "Obesity is a chronic, progressive, and relapsing disease. Although lifestyle interventions and anti-obesity medications are effective for inducing weight loss, evidence regarding their role in long-term weight maintenance after pharmacologically induced weight reduction remains limited. In addition, the high cost and potential adverse effects of weight-loss medications restrict their prolonged use, and it is unclear whether low dose medication, intensive life style intervention or together can s"
+    },
+    {
+      "id": "NCT07481747",
+      "source": "ClinicalTrials.gov",
+      "title": "Efficacy and Safety of Tirzepatide Once Weekly Versus Placebo in Participants Who Are Either Obese or Overweight With Weight-Related Comorbidities (SURMOUNT-1)",
       "status": "RECRUITING",
       "phase": "PHASE3",
-      "date": "2026-11-09",
-      "url": "https://clinicaltrials.gov/study/NCT07775404",
-      "summary": "The purpose of this study is to evaluate the efficacy and safety of elecoglipron compared with placebo adjunct to diet and exercise for weight management, in adult participants living with obesity or overweight with or without T2DM."
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07481747",
+      "summary": "This Phase 3 study evaluates the efficacy and safety of once-weekly subcutaneous tirzepatide (a dual GIP and GLP-1 receptor agonist) at 5 mg, 10 mg, or 15 mg versus placebo, each used with a reduced-calorie diet and increased physical activity, in adults without type 2 diabetes who have obesity or are overweight with weight-related comorbidities. The primary efficacy assessment is at Week 72. Participants with prediabetes at randomization may continue in an additional long-term treatment period "
+    },
+    {
+      "id": "NCT07642635",
+      "source": "ClinicalTrials.gov",
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists to Attenuate Metabolic Risk in Individuals With Duchenne Muscular Dystrophy",
+      "status": "RECRUITING",
+      "phase": "PHASE1, PHASE2",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07642635",
+      "summary": "Duchenne Muscular Dystrophy (DMD) is a rare, genetic disease that leads to muscle weakness, breathing difficulties, heart disease, and early death. Approximately half of individuals with DMD have elevated body mass indices (BMIs) in the overweight or obesity range. High BMI is due to a combination of factors including limited mobility and steroid medications, which are used to treat DMD.\n\nThere are new medications, glucagon-like peptide-1 receptor agonists (GLP-1 RAs) that promote weight loss in"
+    },
+    {
+      "id": "NCT05433584",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study of Tirzepatide Compared With Intensified Conventional Care in Adult Participants With Type 2 Diabetes",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE4",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT05433584",
+      "summary": "This study aims to investigate the efficacy and safety of tirzepatide in participants with type 2 diabetes (T2D) compared to other existing treatment options when treatment is initiated early."
+    },
+    {
+      "id": "NCT07467447",
+      "source": "ClinicalTrials.gov",
+      "title": "Effect of Retatrutide Versus Placebo in Participants Who Have Obesity or Are Overweight",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07467447",
+      "summary": "Phase 2, multicenter, randomized, double-blind, placebo-controlled study evaluating once-weekly subcutaneous retatrutide (LY3437943) at multiple maintenance dose levels versus placebo in adults with obesity or overweight with weight-related comorbidities (without type 2 diabetes), alongside standardized diet and physical activity counseling."
+    },
+    {
+      "id": "NCT07463846",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study to Evaluate ALN-2232 in Participants With Obesity",
+      "status": "RECRUITING",
+      "phase": "PHASE1, PHASE2",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07463846",
+      "summary": "The purpose of this study is to:\n\n* evaluate the safety, tolerability, efficacy, pharmacokinetics (PK), and pharmacodynamics (PD) of single ascending doses of ALN-2232 in patients with obesity\n* evaluate the safety, tolerability, efficacy, PK, and PD of multiple doses of ALN-2232 in patients with obesity\n* evaluate the safety, tolerability, efficacy, PK, and PD of multiple doses of ALN-2232 co-initiated with tirzepatide in patients with obesity"
+    },
+    {
+      "id": "NCT07734792",
+      "source": "ClinicalTrials.gov",
+      "title": "Tirzepatide in Thrombectomy-Treated Acute Ischemic Stroke: A Randomized Trial",
+      "status": "RECRUITING",
+      "phase": "PHASE2, PHASE3",
+      "date": "2026-11-12",
+      "url": "https://clinicaltrials.gov/study/NCT07734792",
+      "summary": "Acute ischemic stroke caused by blockage of a large artery in the brain is one of the leading causes of death and long-term disability worldwide. For patients with this type of stroke, endovascular thrombectomy (EVT), a procedure that removes the blood clot and restores blood flow to the brain, has become the standard treatment. However, even when blood flow is successfully restored, many patients continue to experience disability because of ongoing brain injury caused by inflammation, oxidative"
+    },
+    {
+      "id": "NCT07830329",
+      "source": "ClinicalTrials.gov",
+      "title": "Efficacy and Safety of Olatorepatide Versus Placebo in Adults With Moderate to Severe Hidradenitis Suppurativa Living With Overweight or Obesity",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT07830329",
+      "summary": "This study will test an experimental Regeneron drug called olatorepatide (\"study drug\") to see if it can help treat Hidradenitis Suppurativa (HS).\n\nIn this study, olatorepatide is being tested in people with HS and living with overweight or obesity to see if it helps improve their HS symptoms and quality of life and helps support weight loss.\n\nThe study is looking at:\n\n* What side effects olatorepatide might cause\n* How well olatorepatide works\n* How much olatorepatide is in the blood at differe"
+    },
+    {
+      "id": "NCT07232719",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study of Retatrutide (LY3437943) in Participants With Obesity or Overweight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT07232719",
+      "summary": "The purpose of this study is to evaluate the efficacy and safety of retatrutide compared with placebo for body weight reduction.\n\nParticipation in the study will last about 65 weeks and may include about 18 visits.\n\nParticipants who complete the primary 56-week GZQJ study will have the opportunity to receive an additional 52 weeks of treatment with retatrutide."
+    },
+    {
+      "id": "NCT07775846",
+      "source": "ClinicalTrials.gov",
+      "title": "QUARTET-DKD: Quadruple Therapy for Type 2 Diabetic Nephropathy",
+      "status": "RECRUITING",
+      "phase": "PHASE4",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT07775846",
+      "summary": "This study employs a prospective, randomized, double-blind, parallel-controlled design, aiming to enroll adult participants with type 2 diabetic kidney disease (DKD) who meet the eligibility criteria. With an angiotensin receptor blocker (ARB) as the background therapy, all participants will be randomized in a 1:1:1:1 ratio into four treatment groups:\n\nGroup 1 (G1): ARB + empagliflozin + finerenone placebo + mazdutide placebo; Group 2 (G2): ARB + empagliflozin + finerenone + mazdutide placebo; G"
+    },
+    {
+      "id": "NCT07497399",
+      "source": "ClinicalTrials.gov",
+      "title": "Targeting Agonists of Glucagon-like Peptide-1 Receptor for Multiple Sclerosis",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT07497399",
+      "summary": "The goal of this clinical trial is to evaluate if the study drug will reduce brain and retinal atrophy by reducing inflammation and subsequently slowing neurodegeneration in people with Multiple Sclerosis. The main outcome for the trial is change in normalized brain parenchymal volume (nBPV), measured by magnetic resonance imaging (MRI).\n\nResearchers will compare outcomes from participants randomized to the study drug, versus participants randomized to placebo, to see if there are signs of slowe"
+    },
+    {
+      "id": "NCT06318442",
+      "source": "ClinicalTrials.gov",
+      "title": "The GAPSID Study - How GLP-1 Analogues Prevent Steroid-Induced Diabetes",
+      "status": "RECRUITING",
+      "phase": "NA",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT06318442",
+      "summary": "TITLE: How GLP-1 Analogues prevent steroid-induced diabetes (The GAPSID Study)\n\nDESIGN: A double-blind study evaluating how GLP-1 analogues, compared with metformin, prevent hyperglycaemia in response to a 7-day course of dexamethasone (DEX) 6 mg once daily. This is a mechanistic experimental medicine study.\n\nAIMS: To evaluate the mechanisms by which GLP-1 analogues reduce steroid-induced hyperglycaemia compared to metformin.\n\nOUTCOME MEASURES:\n\n* Primary: Glucose tolerance in response to standa"
+    },
+    {
+      "id": "NCT06162715",
+      "source": "ClinicalTrials.gov",
+      "title": "GLP-1 Receptor Agonists Post-Bariatric Surgery (GRABS) Pilot Trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE2, PHASE3",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT06162715",
+      "summary": "The goal of this pilot clinical trial is to determine the effectiveness of Tirzepatide in patients with persistent obesity (BMI \\&gt; 30) 12 months after bariatric surgery (Roux-en-Y Gastric Bypass). The investigators also aim to determine the frequency of side effects with Tirzepatide in this patient population. Patients who take tirzepatide 12 months after bariatric surgery will be compared to patients who continue with the current standard of care for patients who have previously undergone Ga"
+    },
+    {
+      "id": "NCT07400107",
+      "source": "ClinicalTrials.gov",
+      "title": "AMAZE 8: A Research Study Investigating How Well the Medicine NNC0487-0111 Compared to Semaglutide Helps People With Excess Body Weight and Type 2 Diabetes Lose Weight",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-10",
+      "url": "https://clinicaltrials.gov/study/NCT07400107",
+      "summary": "The purpose of this clinical study is to find out if NNC0487-0111 is safe and effective for treating people who have excess body weight and type 2 diabetes. Participant will receive 2 injections every week: an active medicine and a placebo, both taken as injections under the skin once a week. The placebo is a treatment with no active medicine in it and will be given to all participants. In addition to placebo, participants will receive either of the active medicine NNC0487-0111 (the treatment be"
     },
     {
       "id": "NCT07770152",
@@ -547,6 +747,16 @@
       "summary": "This study is a 6-month, two-arm, RCT which will evaluate the effectiveness and safety of semaglutide in adolescents aged 12-18 years with autism spectrum disorder (ASD) and obesity. The primary outcome is change in body mass index (BMI, kg/m²) from baseline to Month 6. Secondary, descriptive outcomes are changes in metabolic parameters (e.g., lipid levels), side effects, and compliance with semaglutide."
     },
     {
+      "id": "NCT06252584",
+      "source": "ClinicalTrials.gov",
+      "title": "Multi-peptide Vaccination Adjuvanted With XS15 in Acute Myeloid Leukemia Patients",
+      "status": "RECRUITING",
+      "phase": "PHASE1",
+      "date": "2026-11-09",
+      "url": "https://clinicaltrials.gov/study/NCT06252584",
+      "summary": "The aim of this Phase I study is to evaluate the immunogenicity along with safety and toxicity as well as first efficacy of a multi-peptide vaccine adjuvanted with the TLR1/2 ligand XS15 emulsified in Montanide ISA 51 VG (AML-VAC-XS15) in AML patients who have achieved CR or CRi with first line treatment."
+    },
+    {
       "id": "NCT07391267",
       "source": "ClinicalTrials.gov",
       "title": "Pathogenesis of Chronic Kidney Disease Associated With Metabolic Dysfunction- Associated Fatty Liver Disease (MAFLD) and Treatment Response of Oral Semaglutide.",
@@ -555,6 +765,36 @@
       "date": "2026-11-09",
       "url": "https://clinicaltrials.gov/study/NCT07391267",
       "summary": "This project aims to investigate how Chronic Kidney Disease (CKD) develops and progresses in patients who also have Non-Alcoholic Fatty Liver Disease (NAFLD) and to evaluate whether oral semaglutide (a GLP-1 receptor agonist) can slow or prevent this progression.\n\nNAFLD and CKD frequently coexist due to shared mechanisms such as insulin resistance, inflammation, oxidative stress, dyslipidemia, and metabolic syndrome. Because of these overlapping pathways, a single therapy targeting both organs m"
+    },
+    {
+      "id": "NCT07775404",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study to Investigate the Efficacy and Safety of Elecoglipron in Asian Participants With Obesity or Overweight With or Without Type 2 Diabetes Mellitus",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-09",
+      "url": "https://clinicaltrials.gov/study/NCT07775404",
+      "summary": "The purpose of this study is to evaluate the efficacy and safety of elecoglipron compared with placebo adjunct to diet and exercise for weight management, in adult participants living with obesity or overweight with or without T2DM."
+    },
+    {
+      "id": "NCT07924618",
+      "source": "ClinicalTrials.gov",
+      "title": "Ocular Changes in Patients Using Tirzepatide or Semaglutide",
+      "status": "RECRUITING",
+      "phase": "Not specified",
+      "date": "2026-11-09",
+      "url": "https://clinicaltrials.gov/study/NCT07924618",
+      "summary": "This prospective observational study aims to evaluate ocular structural and microvascular changes in adults with obesity who are receiving semaglutide or tirzepatide as part of routine clinical care. Participants with and without type 2 diabetes mellitus will be included.\n\nParticipants will undergo ophthalmologic examinations at baseline and during follow-up. Changes in optic nerve head parameters, retinal thickness, retinal and choroidal microvascular parameters, and choroidal thickness will be"
+    },
+    {
+      "id": "NCT07651319",
+      "source": "ClinicalTrials.gov",
+      "title": "Interleukine-2 (IL-2) Plus Semaglutide in Alzheimer's Disease",
+      "status": "RECRUITING",
+      "phase": "PHASE1, PHASE2",
+      "date": "2026-11-06",
+      "url": "https://clinicaltrials.gov/study/NCT07651319",
+      "summary": "Alzheimer's disease (AD) is the most common cause of dementia. Despite major research efforts, effective treatments that slow or stop disease progression remain limited. Growing evidence suggests that inflammation in the brain and the body plays a key role in the onset and progression of AD. In particular, immune cells called regulatory T cells (Tregs), which normally help control inflammation, are impaired in AD individuals. This leads to increased activity of harmful immune pathways that worse"
     },
     {
       "id": "NCT07575399",
@@ -575,16 +815,6 @@
       "date": "2026-11-06",
       "url": "https://clinicaltrials.gov/study/NCT07685808",
       "summary": "This study will test an experimental drug called olatorepatide (\"study drug\") to determine how safe and effective this drug is compared to placebo and how easily the body can accept this drug at different doses and dosing schedules without causing side effects, as well as how the drug is processed in the body by participants with overweight or obesity but do not have diabetes.\n\nThe study is looking at:\n\n* What side effects the study drug might cause\n* How much study drug is in the blood at diffe"
-    },
-    {
-      "id": "NCT07651319",
-      "source": "ClinicalTrials.gov",
-      "title": "Interleukine-2 (IL-2) Plus Semaglutide in Alzheimer's Disease",
-      "status": "RECRUITING",
-      "phase": "PHASE1, PHASE2",
-      "date": "2026-11-06",
-      "url": "https://clinicaltrials.gov/study/NCT07651319",
-      "summary": "Alzheimer's disease (AD) is the most common cause of dementia. Despite major research efforts, effective treatments that slow or stop disease progression remain limited. Growing evidence suggests that inflammation in the brain and the body plays a key role in the onset and progression of AD. In particular, immune cells called regulatory T cells (Tregs), which normally help control inflammation, are impaired in AD individuals. This leads to increased activity of harmful immune pathways that worse"
     },
     {
       "id": "NCT07842172",
@@ -617,26 +847,6 @@
       "summary": "The purpose of this study is to learn about the safety and effectiveness of berobenatide in adults with overweight or obesity who have already lost weight while taking semaglutide or tirzepatide. The study does not include people with diabetes.\n\nParticipants will be in the study for about 11 months."
     },
     {
-      "id": "NCT07866066",
-      "source": "ClinicalTrials.gov",
-      "title": "Maridebart Cafraglutide Versus Semaglutide in Participants With Type 2 Diabetes",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-11-05",
-      "url": "https://clinicaltrials.gov/study/NCT07866066",
-      "summary": "The main objective of this trial is to evaluate whether maridebart cafraglutide is non-inferior to semaglutide in improving glycemic control in participants with type 2 diabetes (T2D) who are receiving metformin treatment, with or without a sodium-glucose cotransporter-2 (SGLT-2) inhibitor."
-    },
-    {
-      "id": "NCT07668336",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study of Orforglipron (LY3502970) Compared With Dulaglutide in Pediatric Participants With Type 2 Diabetes",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-11-05",
-      "url": "https://clinicaltrials.gov/study/NCT07668336",
-      "summary": "This study looks at how well a medicine called orforglipron works compared to another medicine called dulaglutide in pediatric participants aged 10 to less than 18 years with type 2 diabetes. The study will also check how safe these medicines are and how the body processes them.\n\nParticipation in the study will last about 61 weeks."
-    },
-    {
       "id": "NCT07918196",
       "source": "ClinicalTrials.gov",
       "title": "Postprandial Glycemic and GLP-1 Responses to Modified Full-sugar Drinks",
@@ -647,14 +857,14 @@
       "summary": "This randomized, double-blind, crossover study will evaluate postprandial blood glucose and glucagon-like peptide-1 (GLP-1) responses to different sugar-containing beverages in healthy adults. The study will also evaluate whether the addition of epigallocatechin gallate (EGCG), a compound found in green tea, modifies glucose and GLP-1 responses. Participants will complete four study visits and consume a different study beverage at each visit. Blood samples will be collected to measure glucose, G"
     },
     {
-      "id": "NCT07497399",
+      "id": "NCT07866066",
       "source": "ClinicalTrials.gov",
-      "title": "Targeting Agonists of Glucagon-like Peptide-1 Receptor for Multiple Sclerosis",
+      "title": "Maridebart Cafraglutide Versus Semaglutide in Participants With Type 2 Diabetes",
       "status": "RECRUITING",
-      "phase": "PHASE2",
+      "phase": "PHASE3",
       "date": "2026-11-05",
-      "url": "https://clinicaltrials.gov/study/NCT07497399",
-      "summary": "The goal of this clinical trial is to evaluate if the study drug will reduce brain and retinal atrophy by reducing inflammation and subsequently slowing neurodegeneration in people with Multiple Sclerosis. The main outcome for the trial is change in normalized brain parenchymal volume (nBPV), measured by magnetic resonance imaging (MRI).\n\nResearchers will compare outcomes from participants randomized to the study drug, versus participants randomized to placebo, to see if there are signs of slowe"
+      "url": "https://clinicaltrials.gov/study/NCT07866066",
+      "summary": "The main objective of this trial is to evaluate whether maridebart cafraglutide is non-inferior to semaglutide in improving glycemic control in participants with type 2 diabetes (T2D) who are receiving metformin treatment, with or without a sodium-glucose cotransporter-2 (SGLT-2) inhibitor."
     },
     {
       "id": "NCT07919678",
@@ -667,6 +877,16 @@
       "summary": "The purpose of this clinical study is to learn about the safety and effects of berobenatide (PF-08653944) for the treatment of knee osteoarthritis in adults with overweight or obesity. The study will last 52 weeks and compare the effects of berobenatide compared to placebo on knee pain, physical function, and body weight. Study activities will include blood tests, knee pain assessment, physical function questionnaires and body measurements."
     },
     {
+      "id": "NCT07668336",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study of Orforglipron (LY3502970) Compared With Dulaglutide in Pediatric Participants With Type 2 Diabetes",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-05",
+      "url": "https://clinicaltrials.gov/study/NCT07668336",
+      "summary": "This study looks at how well a medicine called orforglipron works compared to another medicine called dulaglutide in pediatric participants aged 10 to less than 18 years with type 2 diabetes. The study will also check how safe these medicines are and how the body processes them.\n\nParticipation in the study will last about 61 weeks."
+    },
+    {
       "id": "NCT07111494",
       "source": "ClinicalTrials.gov",
       "title": "Impact of Glucagon-like Peptide-1 (GLP-1) Analogs on Disease Outcomes in Psoriatic Arthritis: A Pragmatic Randomized Controlled Trial",
@@ -675,96 +895,6 @@
       "date": "2026-11-05",
       "url": "https://clinicaltrials.gov/study/NCT07111494",
       "summary": "Psoriatic arthritis (PsA) is a chronic inflammatory condition that affects the joints but can also have an effect on multiple parts of the body. This study will assess if the effectiveness of Glucagon-like peptide-1 (GLP-1) medications used to treat type 2-diabetes and weight management, or nutrition counseling can better treat individuals with Psoriatic Arthritis who are also needing treatment for obesity and type 2 diabetes.\n\nThe main objectives it aims to answer are:\n\nTo assess disease outcom"
-    },
-    {
-      "id": "NCT06857942",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study to Investigate the Effectiveness of Tirzepatide (LY3298176) Following Initiation of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque PsO and Obesity or Overweight in Clinical Practice (TOGETHER AMPLIFY-PsO)",
-      "status": "RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT06857942",
-      "summary": "The main purpose of this study is to assess the effectiveness of adding tirzepatide to ixekizumab therapy in standard clinical practice in participants with moderate-to-severe plaque PsO and obesity or overweight with at least 1 weight-related comorbidity.\n\nThe study will last up to 12 months."
-    },
-    {
-      "id": "NCT07817875",
-      "source": "ClinicalTrials.gov",
-      "title": "Efficacy, Safety, and Pharmacokinetics of Tirzepatide (LY3298176) Once Weekly Versus Placebo in Pediatric Participants 6 to Less Than 12 Years of Age Who Have Obesity (ADVANCE-SURMOUNT-KIDS)",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT07817875",
-      "summary": "The main purpose of this study, performed under Master Protocol J4M-MC-PWMP (NCT06672549), is to evaluate the efficacy, safety, and pharmacokinetics of tirzepatide as an addition to healthy lifestyle in participants 6 to less than 12 years of age, with obesity. Participation in the study will last about 104 weeks.\n\nParticipants who have completed the primary 104-week PW02 study (including the 4-week safety follow-up period), will have the opportunity to receive an additional 156 weeks of treatme"
-    },
-    {
-      "id": "NCT06937099",
-      "source": "ClinicalTrials.gov",
-      "title": "Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely Active Crohn's Disease and Obesity or Overweight",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT06937099",
-      "summary": "The main purpose of this study is to evaluate the efficacy and safety of mirikizumab and placebo compared with mirikizumab and concomitantly administered tirzepatide in adult participants with moderately to severely active CD and obesity, or overweight.\n\nThe maximum duration of this study is up to 61 weeks."
-    },
-    {
-      "id": "NCT07772960",
-      "source": "ClinicalTrials.gov",
-      "title": "Semaglutide Dose Effects on Metabolic and Stress Hormone, Craving and Alcohol Use Outcomes",
-      "status": "RECRUITING",
-      "phase": "PHASE1",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT07772960",
-      "summary": "This study will examine two doses of 1.0 mg and 2.0 mg of Semaglutide versus placebo in patients with Alcohol Use Disorder (AUD) and Obesity (Ob) to assess if these doses improve alcohol craving, stress and alcohol use outcomes."
-    },
-    {
-      "id": "NCT07697391",
-      "source": "ClinicalTrials.gov",
-      "title": "AI-Assisted Lifestyle Intervention Versus Tirzepatide for Obesity and Newly Diagnosed Type 2 Diabetes",
-      "status": "RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT07697391",
-      "summary": "This multicenter randomized controlled trial will evaluate whether an AI-assisted intensive lifestyle intervention can improve weight and glycemic management in adults with obesity and newly diagnosed type 2 diabetes, compared with tirzepatide treatment and standard lifestyle management. Eligible participants will be adults aged 18 to 65 years with a body mass index of 28 to less than 40 kg/m² and newly diagnosed type 2 diabetes who have not used glucose-lowering medications in the past 3 months"
-    },
-    {
-      "id": "NCT07169851",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study to Evaluate LY3537021 for the Treatment of Nausea and Vomiting Caused by Chemotherapy in Adults With Cancer",
-      "status": "RECRUITING",
-      "phase": "PHASE2",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT07169851",
-      "summary": "The purpose of this study is to check how well LY35327021 works and how safe it is for controlling nausea and vomiting caused by chemotherapy. Participants who join this study will be in it until all parts are finished, which could take about 2 months."
-    },
-    {
-      "id": "NCT07915609",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study to Learn About Berobenatide Given Once Weekly in Adults With Knee Osteoarthritis and Overweight or Obesity With or Without Type 2 Diabetes (VESPER-OA 2)",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT07915609",
-      "summary": "The purpose of this clinical study is to learn about the safety and effects of berobenatide (PF-08653944) for the treatment of knee osteoarthritis in adults with overweight or obesity with and without type 2 diabetes. The study will last 52 weeks and compare the effects of berobenatide compared to placebo on knee pain, physical function, and body weight. Study activities will include blood tests, knee pain assessment, physical function questionnaires and body measurements."
-    },
-    {
-      "id": "NCT06897475",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
-      "status": "RECRUITING",
-      "phase": "PHASE2",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT06897475",
-      "summary": "The purpose of this study is to measure the change in hemoglobin A1c (HbA1c) with LY3457263 compared with placebo in participants with type 2 diabetes who are not at HbA1c goal when treated with a stable dose of semaglutide or tirzepatide. Participation in the study will last about 9 months."
-    },
-    {
-      "id": "NCT06937086",
-      "source": "ClinicalTrials.gov",
-      "title": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Moderately to Severely Active Ulcerative Colitis and Obesity or Overweight: Phase 3b Study",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-11-04",
-      "url": "https://clinicaltrials.gov/study/NCT06937086",
-      "summary": "The main purpose of this study is to show whether in these individuals, treatment with both mirikizumab and tirzepatide, compared with treatment with mirikizumab and placebo, leads to decrease or disappearance of UC symptoms, and loss of at least one-tenth of the overall body weight.\n\nParticipation in this study will last up to 61 weeks, including 52 weeks of treatment."
     },
     {
       "id": "NCT07806838",
@@ -777,14 +907,94 @@
       "summary": "This pilot study will examine whether daily protein supplementation with or without a mixture of culinary spices can help preserve muscle mass and function in adults who are using GLP-1 medications for weight management.\n\nThe study will include 75 adults who recently started a GLP-1 medication and are experiencing weight loss. Participants will be randomly assigned to one of three groups: standard of care, protein supplementation plus placebo capsules, or protein supplementation plus mixed spice"
     },
     {
-      "id": "NCT04669171",
+      "id": "NCT07915609",
       "source": "ClinicalTrials.gov",
-      "title": "A Novel Vaccine (EO2463) as Monotherapy and in Combination, for Treatment of Patients With Indolent Non-Hodgkin Lymphoma",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phase": "PHASE1, PHASE2",
-      "date": "2026-11-03",
-      "url": "https://clinicaltrials.gov/study/NCT04669171",
-      "summary": "The purpose of this study is to define the recommended Phase 2 Dose, safety, tolerability, immunogenicity, and preliminary efficacy of EO2463 during monotherapy and in combination with lenalidomide and/or rituximab in patients with indolent NHL"
+      "title": "A Study to Learn About Berobenatide Given Once Weekly in Adults With Knee Osteoarthritis and Overweight or Obesity With or Without Type 2 Diabetes (VESPER-OA 2)",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT07915609",
+      "summary": "The purpose of this clinical study is to learn about the safety and effects of berobenatide (PF-08653944) for the treatment of knee osteoarthritis in adults with overweight or obesity with and without type 2 diabetes. The study will last 52 weeks and compare the effects of berobenatide compared to placebo on knee pain, physical function, and body weight. Study activities will include blood tests, knee pain assessment, physical function questionnaires and body measurements."
+    },
+    {
+      "id": "NCT07817875",
+      "source": "ClinicalTrials.gov",
+      "title": "Efficacy, Safety, and Pharmacokinetics of Tirzepatide (LY3298176) Once Weekly Versus Placebo in Pediatric Participants 6 to Less Than 12 Years of Age Who Have Obesity (ADVANCE-SURMOUNT-KIDS)",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT07817875",
+      "summary": "The main purpose of this study, performed under Master Protocol J4M-MC-PWMP (NCT06672549), is to evaluate the efficacy, safety, and pharmacokinetics of tirzepatide as an addition to healthy lifestyle in participants 6 to less than 12 years of age, with obesity. Participation in the study will last about 104 weeks.\n\nParticipants who have completed the primary 104-week PW02 study (including the 4-week safety follow-up period), will have the opportunity to receive an additional 156 weeks of treatme"
+    },
+    {
+      "id": "NCT06857942",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study to Investigate the Effectiveness of Tirzepatide (LY3298176) Following Initiation of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque PsO and Obesity or Overweight in Clinical Practice (TOGETHER AMPLIFY-PsO)",
+      "status": "RECRUITING",
+      "phase": "PHASE4",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT06857942",
+      "summary": "The main purpose of this study is to assess the effectiveness of adding tirzepatide to ixekizumab therapy in standard clinical practice in participants with moderate-to-severe plaque PsO and obesity or overweight with at least 1 weight-related comorbidity.\n\nThe study will last up to 12 months."
+    },
+    {
+      "id": "NCT06937086",
+      "source": "ClinicalTrials.gov",
+      "title": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With Moderately to Severely Active Ulcerative Colitis and Obesity or Overweight: Phase 3b Study",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT06937086",
+      "summary": "The main purpose of this study is to show whether in these individuals, treatment with both mirikizumab and tirzepatide, compared with treatment with mirikizumab and placebo, leads to decrease or disappearance of UC symptoms, and loss of at least one-tenth of the overall body weight.\n\nParticipation in this study will last up to 61 weeks, including 52 weeks of treatment."
+    },
+    {
+      "id": "NCT07697391",
+      "source": "ClinicalTrials.gov",
+      "title": "AI-Assisted Lifestyle Intervention Versus Tirzepatide for Obesity and Newly Diagnosed Type 2 Diabetes",
+      "status": "RECRUITING",
+      "phase": "PHASE4",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT07697391",
+      "summary": "This multicenter randomized controlled trial will evaluate whether an AI-assisted intensive lifestyle intervention can improve weight and glycemic management in adults with obesity and newly diagnosed type 2 diabetes, compared with tirzepatide treatment and standard lifestyle management. Eligible participants will be adults aged 18 to 65 years with a body mass index of 28 to less than 40 kg/m² and newly diagnosed type 2 diabetes who have not used glucose-lowering medications in the past 3 months"
+    },
+    {
+      "id": "NCT06937099",
+      "source": "ClinicalTrials.gov",
+      "title": "Mirikizumab and Tirzepatide Administered in Adult Participants With Moderately to Severely Active Crohn's Disease and Obesity or Overweight",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT06937099",
+      "summary": "The main purpose of this study is to evaluate the efficacy and safety of mirikizumab and placebo compared with mirikizumab and concomitantly administered tirzepatide in adult participants with moderately to severely active CD and obesity, or overweight.\n\nThe maximum duration of this study is up to 61 weeks."
+    },
+    {
+      "id": "NCT07169851",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study to Evaluate LY3537021 for the Treatment of Nausea and Vomiting Caused by Chemotherapy in Adults With Cancer",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT07169851",
+      "summary": "The purpose of this study is to check how well LY35327021 works and how safe it is for controlling nausea and vomiting caused by chemotherapy. Participants who join this study will be in it until all parts are finished, which could take about 2 months."
+    },
+    {
+      "id": "NCT06897475",
+      "source": "ClinicalTrials.gov",
+      "title": "A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide",
+      "status": "RECRUITING",
+      "phase": "PHASE2",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT06897475",
+      "summary": "The purpose of this study is to measure the change in hemoglobin A1c (HbA1c) with LY3457263 compared with placebo in participants with type 2 diabetes who are not at HbA1c goal when treated with a stable dose of semaglutide or tirzepatide. Participation in the study will last about 9 months."
+    },
+    {
+      "id": "NCT07772960",
+      "source": "ClinicalTrials.gov",
+      "title": "Semaglutide Dose Effects on Metabolic and Stress Hormone, Craving and Alcohol Use Outcomes",
+      "status": "RECRUITING",
+      "phase": "PHASE1",
+      "date": "2026-11-04",
+      "url": "https://clinicaltrials.gov/study/NCT07772960",
+      "summary": "This study will examine two doses of 1.0 mg and 2.0 mg of Semaglutide versus placebo in patients with Alcohol Use Disorder (AUD) and Obesity (Ob) to assess if these doses improve alcohol craving, stress and alcohol use outcomes."
     },
     {
       "id": "NCT07734870",
@@ -795,216 +1005,6 @@
       "date": "2026-11-03",
       "url": "https://clinicaltrials.gov/study/NCT07734870",
       "summary": "The goal of this pilot clinical trial is to learn if tirzepatide can treat active central centrifugal cicatricial alopecia (CCCA), a type of permanent scarring hair loss, in adults. The main questions it aims to answer are:\n\n* Does tirzepatide improve the symptoms and signs of active CCCA?\n* Does tirzepatide change the activity of genes in the scalp, especially genes related to scarring?\n* Does tirzepatide promote hair regrowth?\n\nParticipants will:\n\n* Inject tirzepatide once a week for 12 months"
-    },
-    {
-      "id": "NCT07854886",
-      "source": "ClinicalTrials.gov",
-      "title": "Hypothalamic GLP-1 Response in Healthy Weight and Obesity",
-      "status": "RECRUITING",
-      "phase": "NA",
-      "date": "2026-11-02",
-      "url": "https://clinicaltrials.gov/study/NCT07854886",
-      "summary": "The goal of this clinical trial is to learn how the gut hormone glucagon-like peptide-1 (GLP-1) helps the brain sense sugar. It includes adults with healthy weight and adults with obesity.\n\nThe main questions this trial aims to answer are:\n\nA. Does GLP-1 cause the brain's response to sugar? B. Do lower GLP-1 levels cause a weaker brain response to sugar in adults with obesity?\n\nResearchers will compare each participant's brain response across four test days. On these days, GLP-1 levels will be b"
-    },
-    {
-      "id": "NCT07908316",
-      "source": "ClinicalTrials.gov",
-      "title": "Comparing the Extent to Which Maridebart Cafraglutide is Made Available in the Body of Participants Living With Overweight or Obesity After Switching From Glucagon-like Peptide-1 Receptor Agonists (GLP-1RA)",
-      "status": "RECRUITING",
-      "phase": "PHASE1",
-      "date": "2026-11-02",
-      "url": "https://clinicaltrials.gov/study/NCT07908316",
-      "summary": "The primary purpose of the study is to assess the pharmacokinetics of maridebart cafraglutode after switching from weekly GLP-1RA in participants living with overweight or obesity."
-    },
-    {
-      "id": "NCT07840729",
-      "source": "ClinicalTrials.gov",
-      "title": "Evaluate the Safety and Tolerability of Multiple Doses of JMT206 Injection in Obese Participants",
-      "status": "RECRUITING",
-      "phase": "PHASE1",
-      "date": "2026-11-02",
-      "url": "https://clinicaltrials.gov/study/NCT07840729",
-      "summary": "Use these resources to provide understandable information about this study to patients, families, and health care providers:"
-    },
-    {
-      "id": "NCT06774079",
-      "source": "ClinicalTrials.gov",
-      "title": "Glucagon-like Peptide-1 Receptor Agonist (GLP-1 RA) and Diet in Inflammatory Bowel Disease (IBD) Patients",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-10-29",
-      "url": "https://clinicaltrials.gov/study/NCT06774079",
-      "summary": "The purpose of this study is to use diet and an injectable medication called tirzepatide (Zepbound) glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist (GIP-GLP-1 RA) medication as adjunctive therapy (another treatment used together with the primary treatment) for Crohn's disease patients with mild disease who are on stable doses of biologic medication (infliximab or adalimumab) and who have a body mass index (BMI) of at least 27."
-    },
-    {
-      "id": "NCT07693608",
-      "source": "ClinicalTrials.gov",
-      "title": "An Open-Label Tirzepatide Trial for Comorbid Obesity and Stimulant Use Disorder",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phase": "PHASE2",
-      "date": "2026-10-29",
-      "url": "https://clinicaltrials.gov/study/NCT07693608",
-      "summary": "This open label pilot study will assess the feasibility and preliminary efficacy of tirzepatide which will be prescribed under its FDA approved weight management indication in adults with moderate or severe methamphetamine, cocaine or prescription stimulant use disorder (MUD) who also meet criteria for obesity or overweight with comorbidities. Up to 30 participants will receive 20 weeks of once weekly tirzepatide, followed by an observational follow up period.\n\nThe study also incorporates MRI at"
-    },
-    {
-      "id": "NCT07872904",
-      "source": "ClinicalTrials.gov",
-      "title": "FutureShape Family",
-      "status": "RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-10-29",
-      "url": "https://clinicaltrials.gov/study/NCT07872904",
-      "summary": "The number of adults and children living with obesity is increasing worldwide. Once childhood obesity has developed, more than 80% of children carry the obesity into adulthood, with a high risk of cardiometabolic disease, poor mental health, and decreased life expectancy. Parental obesity is a strong predictor of intergenerational obesity and is closely associated with a child's body composition from childhood through to adulthood.\n\nObesity pharmacotherapy effectively reduces body weight. In adu"
-    },
-    {
-      "id": "NCT07075341",
-      "source": "ClinicalTrials.gov",
-      "title": "Healthy Living BEYOND Weight Study",
-      "status": "RECRUITING",
-      "phase": "Not specified",
-      "date": "2026-10-28",
-      "url": "https://clinicaltrials.gov/study/NCT07075341",
-      "summary": "The Healthy Living BEYOND Weight Study is an observational research study of participants living with overweight and obesity. The principal objectives for this project will be to answer fundamental unanswered questions regarding patient experiences and outcomes related to overweight and obesity, and to assess the real-world effectiveness of different weight management strategies, within contemporary and diverse populations. To accomplish this, the Study Team for this project will leverage their "
-    },
-    {
-      "id": "NCT07900438",
-      "source": "ClinicalTrials.gov",
-      "title": "A Research Study Looking at Kidney and Heart Health in Adults With Type 2 Diabetes and Chronic Kidney Disease Treated With Semaglutide in China",
-      "status": "RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-10-28",
-      "url": "https://clinicaltrials.gov/study/NCT07900438",
-      "summary": "The purpose of this clinical study is to find out what happens to kidney and heart health during treatment with a medicine called semaglutide, which is given as an injection under the skin. The clinical study will also look at whether this medicine is safe for adults who have type 2 diabetes (T2D) and chronic kidney disease (CKD). This study will last for about 60 to 172 weeks."
-    },
-    {
-      "id": "NCT07900074",
-      "source": "ClinicalTrials.gov",
-      "title": "Mechanisms of Weight Loss: Tirzepatide vs Semaglutide",
-      "status": "RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-10-28",
-      "url": "https://clinicaltrials.gov/study/NCT07900074",
-      "summary": "The goal of this clinical trial is to determine if there are differences in the effect of 12 weeks of tirzepatide versus semaglutide on energy balance in adults with obesity and without known diabetes. The main questions it aims to answer are:\n\n\\- Does tirzepatide have a greater effect on energy expenditure or energy extraction than semaglutide?\n\nParticipants will:\n\n* Take tirzepatide or semaglutide once weekly for 12 weeks\n* Undergo identical baseline and week 12 study visits (including 24-hour"
-    },
-    {
-      "id": "NCT03884075",
-      "source": "ClinicalTrials.gov",
-      "title": "Non-Alcoholic Fatty Liver Disease, the HEpatic Response to Oral Glucose, and the Effect of Semaglutide (NAFLD HEROES)",
-      "status": "RECRUITING",
-      "phase": "PHASE2",
-      "date": "2026-10-27",
-      "url": "https://clinicaltrials.gov/study/NCT03884075",
-      "summary": "Background:\n\nIn non-alcoholic fatty liver disease (NAFLD), fat accumulates in the liver and can cause damage. Researchers want to learn what causes the damage NAFLD, and to see if a medication can help.\n\nObjective:\n\nTo find out how the liver in people with NAFLD responds to feeding, and how this relates to their response to the drug semaglutide.\n\nEligibility:\n\nPeople with NAFLD and healthy volunteers ages 18 and older\n\nDesign:\n\nParticipants will be screened with:\n\nMedical history\n\nPhysical exam\n"
-    },
-    {
-      "id": "NCT07398300",
-      "source": "ClinicalTrials.gov",
-      "title": "Insulin-Mediated Glucose Uptake and Organ Perfusion Assessed by Total-Body PET During GIP and GLP-1 Infusion",
-      "status": "RECRUITING",
-      "phase": "NA",
-      "date": "2026-10-27",
-      "url": "https://clinicaltrials.gov/study/NCT07398300",
-      "summary": "This study investigates how the naturally occurring gut hormones GIP and GLP-1 influence whole-body glucose uptake and organ perfusion in humans. Using a state-of-the-art total-body PET-CT scanner, the study measures dynamic uptake of the glucose analogue 18F-FDG and blood flow using H₂¹⁵O across multiple organs during controlled elevations of plasma glucose and endogenous insulin secretion.\n\nThe project consists of two sub-studies. Sub-study 1 includes healthy individuals who undergo three expe"
-    },
-    {
-      "id": "NCT06668935",
-      "source": "ClinicalTrials.gov",
-      "title": "Prolongation of GLP-1 Adherence When Using Continuous Glucose Monitoring",
-      "status": "RECRUITING",
-      "phase": "Not specified",
-      "date": "2026-10-27",
-      "url": "https://clinicaltrials.gov/study/NCT06668935",
-      "summary": "This study is to see if the FreeStyle Libre 3 Continuous Glucose Monitoring System (FSL3) will help prolong the length of time people with diabetes maintain adherence to glucagon-like peptide 1 (GLP-1/GIP) agonists."
-    },
-    {
-      "id": "NCT07782359",
-      "source": "ClinicalTrials.gov",
-      "title": "Impact of Using a GLP1 on Treatment Related Side Effects of Lung Cancer Patients Receiving Lorlatinib",
-      "status": "RECRUITING",
-      "phase": "PHASE1",
-      "date": "2026-10-27",
-      "url": "https://clinicaltrials.gov/study/NCT07782359",
-      "summary": "The proposed study seeks to address a critical gap in the management of lorlatinib-induced metabolic derangements, particularly rapid weight gain, which can adversely affect treatment adherence, dosing and ultimately patient outcomes. In this study patients with non-small cell lung cancer (NSCLC) receiving lorlatinib treatment will receive tirzepatide, a dual GIP/GLP-1 receptor agonist with demonstrated efficacy in weight reduction and metabolic improvement. This study seeks to evaluate its pote"
-    },
-    {
-      "id": "NCT07825857",
-      "source": "ClinicalTrials.gov",
-      "title": "Randomized Controlled Trial of Tirzepatide for Methamphetamine Use Disorder",
-      "status": "RECRUITING",
-      "phase": "PHASE2",
-      "date": "2026-10-26",
-      "url": "https://clinicaltrials.gov/study/NCT07825857",
-      "summary": "This is a phase 2, randomized, double-blind, placebo-controlled, parallel-group trial evaluating the tolerability, safety, and preliminary efficacy of tirzepatide for the treatment of individuals with moderate or severe methamphetamine use disorder (MtUD). The central hypothesis of the proposed research is that tirzepatide is a safe and potentially efficacious treatment of MtUD.\n\nParticipants will undergo study procedures over 32 weeks, including:\n\n1. completing self-assessments\n2. undergo brief"
-    },
-    {
-      "id": "NCT07592546",
-      "source": "ClinicalTrials.gov",
-      "title": "Translational Health Research Into Vascular and Neurocognitive Effects of Weight Loss",
-      "status": "RECRUITING",
-      "phase": "PHASE4",
-      "date": "2026-10-26",
-      "url": "https://clinicaltrials.gov/study/NCT07592546",
-      "summary": "The goal of this clinical trial is to learn about the nature of brain abnormalities associated with excess body fat in healthy adults aged 35-55. The main questions it aims to answer are:\n\n* Will excessive fat be associated with brain abnormalities on MRI measures?\n* Will weight loss change brain health on MRI measures?\n\nParticipants will:\n\n* Self-administer study drug, semaglutide, once a week for 80 weeks\n* Complete metabolic and basic body measurements\n* Complete cognitive, mood, and dietary "
-    },
-    {
-      "id": "NCT07891156",
-      "source": "ClinicalTrials.gov",
-      "title": "Lean Mass Changes With Semaglutide in Adults With Type 1 Diabetes and Overweight/Obesity.",
-      "status": "RECRUITING",
-      "phase": "PHASE2, PHASE3",
-      "date": "2026-10-23",
-      "url": "https://clinicaltrials.gov/study/NCT07891156",
-      "summary": "The goal of this 24 week double-blinded, randomized, parallel controlled clinical trial is to learn how semaglutide affects body composition in adults with type 1 diabetes and overweight/obesity.\n\nThe main question to answer is:\n\nWhat effect does Semaglutide have on body composition in adults with type 1 diabetes and overweight/obesity compared to a placebo?\n\nAround 40 participants will:\n\n* Be randomly assigned to receive semaglutide or a placebo.\n* Self-administer the treatment drug once per we"
-    },
-    {
-      "id": "NCT07517042",
-      "source": "ClinicalTrials.gov",
-      "title": "ASCEND-1: Lifestyle Intervention Plus Mazdutide for Weight Management",
-      "status": "RECRUITING",
-      "phase": "NA",
-      "date": "2026-10-22",
-      "url": "https://clinicaltrials.gov/study/NCT07517042",
-      "summary": "Obesity is a chronic, progressive, and relapsing disease. Although lifestyle interventions and anti-obesity medications are effective for inducing weight loss, evidence regarding their role in long-term weight maintenance after pharmacologically induced weight reduction remains limited. In addition, the high cost and potential adverse effects of weight-loss medications restrict their prolonged use, and it is unclear whether low dose medication, intensive life style intervention or together can s"
-    },
-    {
-      "id": "NCT07889453",
-      "source": "ClinicalTrials.gov",
-      "title": "Metabolic Effects of Switching From Injectable Semaglutide to Tirzepatide",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phase": "Not specified",
-      "date": "2026-10-22",
-      "url": "https://clinicaltrials.gov/study/NCT07889453",
-      "summary": "The goal of this retrospective observational study is to evaluate the effectiveness of switching from injectable semaglutide to tirzepatide in adults living with type 2 diabetes (T2D) and, descriptively, in a smaller cohort of adults living with obesity without diabetes, using clinical data from the LMC Diabetes Registry.\n\nThe study has two co-primary objectives: 1) to assess change in body weight from baseline to follow-up (6-12 months) among adults living with T2D who switched from injectable "
-    },
-    {
-      "id": "NCT07662213",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study to Find Out if the Study Drug Elecoglipron Helps Adults With Type 2 Diabetes Mellitus by Comparing it With Semaglutide, a Medicine Already Used to Treat Type 2 Diabetes Mellitus",
-      "status": "RECRUITING",
-      "phase": "PHASE3",
-      "date": "2026-10-22",
-      "url": "https://clinicaltrials.gov/study/NCT07662213",
-      "summary": "The purpose of this study is to evaluate the efficacy, safety, and tolerability of elecoglipron compared with oral semaglutide in adults with T2DM and increased cardiovascular risk that is inadequately managed alone or on stable treatment with other background glucose-lowering medication(s)."
-    },
-    {
-      "id": "NCT06247995",
-      "source": "ClinicalTrials.gov",
-      "title": "A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GRPR+, ER+, HER2- Metastatic Breast Cancer After Progression on Previous Endocrine Therapy in Combination With a CDK4/6 Inhibitor.",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "phase": "PHASE1, PHASE2",
-      "date": "2026-10-22",
-      "url": "https://clinicaltrials.gov/study/NCT06247995",
-      "summary": "In the phase I part, to determine the recommended doses (RD) and dosing regimens of \\[177Lu\\]Lu-NeoB in combination with capecitabine in adult patients with gastrin releasing peptide receptor positive, estrogen receptor-positive, human epidermal growth factor receptor-2 negative metastatic breast cancer after progression on previous endocrine therapy in combination with a CDK4/6 inhibitor. In the phase II part, to evaluate the preliminary anti-tumor activity of two different doses/regimens of \\["
-    },
-    {
-      "id": "NCT07107334",
-      "source": "ClinicalTrials.gov",
-      "title": "A Study to Estimate Early Clinical Efficacy Signals of GLP-1 Agonist Administration in Conjunction With Levonorgestrel Intrauterine Device in Obese Patients With Endometrioid Intraepithelial Neoplasia",
-      "status": "RECRUITING",
-      "phase": "PHASE2",
-      "date": "2026-10-21",
-      "url": "https://clinicaltrials.gov/study/NCT07107334",
-      "summary": "This study will explore the use of glucagon-like peptide 1 receptor agonist (GLP-1RA) used concurrently with levonorgestrel intrauterine device in patients with poor surgical candidacy for a hysterectomy or patients who are pursuing fertility sparing. GLP-1RA are a class of medications that mimic the natural hormone glucagon-like peptide-1. These medications trigger the pancreas to release insulin which can help lower blood sugar levels and delay gastric emptying. The recent FDA approval of GLP-"
     }
   ],
   "archive": [
